@@ -94,6 +94,7 @@ header > p {
     margin: auto;
     padding-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.418);
+    text-align: center;
     
 }
 
@@ -119,7 +120,7 @@ nav > a {
     padding: 20px;
     text-decoration: none;
     margin-top: 90px;
-    margin-left: 20px;
+    margin-left: 14px;
     font-size: 14px;
     
 }
@@ -167,7 +168,7 @@ main h1{
     font-family: var(--fonteandroid);
     font-weight: normal;
     font-size: 1.8em;
-    text-align: center;
+    
 }
 
 main h2{
